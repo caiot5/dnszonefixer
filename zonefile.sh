@@ -9,7 +9,7 @@
 ## $owner.domain.tld.
 ## (domain and tld remains the same, it just replaces IP octets with the owner).
 ##
-## Usage: ./zonefile3.sh <zonefile>
+## Usage: ./zonefile.sh <zonefile>
 ################################################################################
 
 # Check if input file is provided
